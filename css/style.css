@@ -161,12 +161,12 @@ hr {
 /* media queries */
 @media (max-width:768px) {
     .author-credit img{
-      margin-right: 0.5rem;
+      margin-right: 1rem;
         
     }
 
     .nft-price-day img{
-        margin-right: 0.5rem;
+        margin-right: 1rem;
     }
 }
 
