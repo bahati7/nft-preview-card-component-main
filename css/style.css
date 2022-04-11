@@ -158,25 +158,3 @@ hr {
 
 
 
-/* media queries */
-@media (max-width:350px) {
-    .nft-main-card {
-        width: 80%;
-    }
-}
-
-@media (min-width:351px) {
-    .nft-main-card{
-        width: 50%;
-    }
-}
-@media (min-width:600px) {
-    .nft-main-card{
-        width: 25%;
-    }
-    .author-credit{
-        display: flex;
-        flex-direction: row;
-        gap: 1.5rem;
-    }
-}
