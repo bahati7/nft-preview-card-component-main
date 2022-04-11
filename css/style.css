@@ -136,6 +136,7 @@ hr {
 }
 .author-credit img{
     width: 1.5rem;
+    height: 1.5rem;
     border-style: solid;
     border-radius: 50%;
     border-width: 1px;
