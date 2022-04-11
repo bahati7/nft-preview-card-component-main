@@ -102,6 +102,10 @@ main{
     padding-bottom: 0.8rem;
 }
 
+.nft-price-day img{
+    margin-right: 0.2rem;
+}
+
 
 .nft-price-day .nft-price,.nft-day{
     display: flex;
